@@ -14,9 +14,11 @@
  * limitations under the License.
  */
 
-package com.example.android.navigationdrawerexample;
+package com.atp.washingmanager;
 
 import java.util.Locale;
+
+import com.example.android.navigationdrawerexample.R;
 
 import android.app.Activity;
 import android.app.Fragment;
